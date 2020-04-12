@@ -1,0 +1,6 @@
+package author_sample;
+
+message Author {
+    required string name = 1;
+    required string surname = 2;
+}
